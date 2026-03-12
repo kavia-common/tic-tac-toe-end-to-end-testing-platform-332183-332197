@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-end-to-end-testing-platform-332183-332197/vite_frontend"
+}
